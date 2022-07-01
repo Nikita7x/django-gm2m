@@ -24,7 +24,7 @@ DEV_STATUS = {'pre': '2 - Pre-Alpha',
 
 # setup function parameters
 setup(
-    name='django-gm2m',
+    name='django4-gm2m',
     version=__version__,
     description='Django generic many-to-many field',
     long_description=open(os.path.join('README.rst')).read(),
